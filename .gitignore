@@ -1,0 +1,45 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+out/
+target/
+
+# Environment files
+.env
+.env.local
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.class
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Exercise folder (your case)
+Exercise/
+Projects
+Week 2
